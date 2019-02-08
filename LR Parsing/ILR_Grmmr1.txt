@@ -1,0 +1,13 @@
+C->aAd|bBd|aBe|bAe
+A->c
+B->c
+S->DD
+D->aD|b
+G->CS
+
+R/R Conflicts Generated due merging {8, 5} e
+{('A', 'c'), ('B', 'c')}
+R/R Conflicts Generated due merging {8, 5} d
+{('A', 'c'), ('B', 'c')}
+
+CLR in  24 states, by LALR in 20 states, by ILR in 21 states
